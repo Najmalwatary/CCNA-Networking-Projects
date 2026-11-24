@@ -260,6 +260,29 @@ Through this project, I gained practical experience with:
 - Verifying interface status and routing tables.
 - Testing connectivity between different networks.
 
+## Screenshots
+
+### 1. Network Topology
+
+This screenshot shows both Layer 3 routing approaches: Routed Physical Interfaces and SVI-based Inter-VLAN Routing.
+
+![Network Topology](screenshots/topology.png)
+
+### 2. Connectivity Tests
+
+This screenshot demonstrates the successful connectivity tests between devices in different networks.
+
+![Connectivity Tests](screenshots/connectivity-tests.png)
+
+---
+
+## Project Files
+
+- Cisco Packet Tracer topology (`.pkt`).
+- Network topology screenshots.
+- Configuration commands and verification details.
+
+
 ## Project Files
 
 - Cisco Packet Tracer topology (`.pkt`).
