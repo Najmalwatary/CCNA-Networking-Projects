@@ -241,19 +241,21 @@ Through this project, I gained practical experience with:
 * Verifying active DHCP leases using `show ip dhcp binding`.
 
 
+
 ## Screenshots
 
 ### 1. Network Topology
 
-Shows the complete network topology connecting LAN1 and LAN2 through R1 and R2 to the centralized ISP DHCP server.
+This screenshot shows the complete network topology connecting LAN1 and LAN2 through R1 and R2 to the centralized ISP DHCP server.
 
 ![Network Topology](screenshots/topology.png)
 
 ### 2. DHCP Verification & Connectivity Tests
 
-Demonstrates successful DHCP address assignments, RIPv2 routing information, and end-to-end connectivity tests.
+This screenshot shows the successful DHCP address assignments using `show ip dhcp binding`, RIPv2 routing information using `show ip route`, and successful end-to-end Ping tests.
 
 ![DHCP Verification](screenshots/verification.png)
+
 
 
 ### 2. DHCP Verification & Connectivity Tests
